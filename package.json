@@ -1,6 +1,6 @@
 {
   "name": "md-folder-to-html",
-  "version": "2.4.2",
+  "version": "2.4.3",
   "description": "Convert a folder with files and markdown documents to an HTML site",
   "main": "cli.js",
   "bin": {
